@@ -1,6 +1,6 @@
 {
   "name": "demo-expo-svg-animated-linear-gradient",
-  "description": "An empty new project",
+  "description": "A demo Animated linear gradient for React Native Svg, the component is hosted at https://www.npmjs.com/package/react-native-svg-animated-linear-gradient",
   "slug": "demo-expo-svg-animated-linear-gradient",
   "privacy": "public",
   "sdkVersion": "16.0.0",
