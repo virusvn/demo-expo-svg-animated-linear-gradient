@@ -2860,9 +2860,9 @@ react-native-safe-module@^1.1.0:
   dependencies:
     dedent "^0.6.0"
 
-react-native-svg-animated-linear-gradient@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-svg-animated-linear-gradient/-/react-native-svg-animated-linear-gradient-0.1.0.tgz#14ac310b12a7f66b49193d9cd4d5c3033f94eb00"
+react-native-svg-animated-linear-gradient@^0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/react-native-svg-animated-linear-gradient/-/react-native-svg-animated-linear-gradient-0.1.6.tgz#493e26904629f38111ff195b4b93cb0a53672e3d"
   dependencies:
     d3-interpolate "^1.1.5"
 
