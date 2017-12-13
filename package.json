@@ -6,11 +6,12 @@
   "private": true,
   "main": "main.js",
   "dependencies": {
+    "babel-preset-stage-2": "^6.24.1",
     "d3-interpolate": "^1.1.5",
     "expo": "16.0.0",
     "prop-types": "^15.5.10",
     "react": "16.0.0-alpha.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz",
-    "react-native-svg-animated-linear-gradient": "^0.1.6"
+    "react-native-svg-animated-linear-gradient": "file:../react-native-svg-animated-linear-gradient"
   }
 }
